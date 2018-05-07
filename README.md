@@ -1,7 +1,7 @@
 # MazeDraw
 
 ### Project Description 
-Maze Draw is a virtually reality, two player, proof of concept game designed to blend the virtual and physical world. Through the use of OpenCV, Unity, and Oculus, a drawn maze on a whiteboard is translated into a 3D maze within Unity that a player in VR can walk through. Although MazeDraw is not a complete "Game" so to speak, we had many ideas for the game that MazeDraw could one day be developed into, such as a dungeons and dragons style game, or adding compettivitiy between the drawer and the maze runner. Overall the project achieved its goal of using intuitive drawing as the input to design a 3D virtual world.
+Maze Draw is a virtually reality, two player, proof of concept game designed to blend the virtual and physical world. Through the use of OpenCV, Unity, and Oculus, a drawn maze on a whiteboard is translated into a 3D maze within Unity that a player in VR can walk through. Although MazeDraw is not a complete "Game" so to speak, we had many ideas for the game that MazeDraw could one day be developed into, such as a dungeons and dragons style game, or adding competitivitiy between the drawer and the maze runner. Overall the project achieved its goal of using intuitive drawing as the input to design a 3D virtual world.
 
 Click on image below to see youtube video documentation
 [![See the video documentation here!](https://img.youtube.com/vi/S9dH5GWhVRM/0.jpg)](https://www.youtube.com/watch?v=S9dH5GWhVRM)
