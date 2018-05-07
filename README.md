@@ -9,3 +9,4 @@ Maze Draw is a virtually reality, two player, proof of concept game designed to 
 The script that does the job of using the webcam and recognizing the maze is found at Assets/Scripts/LSDTest.cs. It works by utilizing a color filter on a webcam image, and is then sent to OpenCV's line segment detector. The line segment coordinates are converted from pixel coordinates to game grid coordinates and then sent to the MazeDraw.cs script which stores an array of the lines that should be built in the game.
 
 
+
