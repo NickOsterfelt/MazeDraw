@@ -14,3 +14,5 @@ The script that does the job of using the webcam and recognizing the maze is fou
 1.  Brandon Boylan-Peck
 2.  Nick Osterfelt
 3.  Wylie Wells
+
+[See github.io site for MazeDraw here!](https://nickosterfelt.github.io/MazeDraw/)
